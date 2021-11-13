@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tre Galloway
 #### I am a Front-End Web Developer 🧑🏽‍💻
-![I am a Front-End Web Developer 🧑🏽‍💻](https://twitter.com/bytregalloway/header_photo)
+![I am a Front-End Web Developer 🧑🏽‍💻](https://drive.google.com/file/d/18sEj2UFFIvEZJ06Tr9Q2KRbyBirPHLlw/view?usp=sharing)
 
 Started learning Python as a one off thing🤷🏽‍♂️, but along the way started to really get into coding and once I found out about front-end web development I was all in🧑🏽‍💻. Now I've learned several languages and am now learning React Framework.
 
