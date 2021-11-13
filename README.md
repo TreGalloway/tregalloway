@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tre Galloway</h1>
-<h3 align="center">A passionate frontend developer from New Orleans, Lousisiana</h3>
+<h3 align="center">A passionate Front-End Developer from New Orleans, Lousisiana</h3>
 
 - 🔭 I’m currently working on [Personal Website](https://github.com/TreGalloway/personal-website)
 
