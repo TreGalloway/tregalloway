@@ -1,4 +1,4 @@
-![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1636944857/1500x500)
+![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1637017825/1500x500)
 <h1 align="left">Hi 👋, I'm Tre Galloway</h1>
 <h3 align="left">A passionate Frontend Developer from New Orleans, Lousisiana</h3>
 <p>Started learning Python as a one off thing🤷🏽‍♂️, but along the way started to really get into coding and once I found out about front-end web development I was all in🧑🏽‍💻. Now I’ve learned several languages and am now learning React Framework.
