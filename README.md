@@ -6,7 +6,8 @@
 
 <h2 align="left">What I’m currently working on</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=personal-website&show_icons=true&theme=tokyonight)](https://github.com/TreGalloway/personal-website)
+[![Readme Card][![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/TreGalloway/personal-website)
+
 
 
 <h2 align="left">Connect with me:</h2>
