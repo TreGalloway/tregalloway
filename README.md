@@ -7,6 +7,7 @@
 <h2 align="left">What I’m currently working on</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=Personal-Website&show_icons=true&theme=tokyonight)](https://github.com/TreGalloway/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=link-in-bio&theme=tokyonight)](https://github.com/TreGalloway/link-in-bio)
 
 
 
