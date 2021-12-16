@@ -1,4 +1,5 @@
 ![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1637900179/1500x500)
+<a href="https://app.daily.dev/TreGalloway"><img src="https://api.daily.dev/devcards/62c3c8ac430345bd9ea421ddafa22467.png?r=0oo" width="400" alt="Tre Galloway's Dev Card"/></a>
 <h1 align="left">Hi 👋, I'm Tre Galloway</h1>
 <h3 align="left">A passionate Frontend Developer from New Orleans, Louisiana</h3>
 <p>Started learning Python as a one off thing🤷🏽‍♂️, but along the way started to really get into coding and once I found out about front-end web development I was all in🧑🏽‍💻. Now I’ve learned several languages and am now learning React Framework.
