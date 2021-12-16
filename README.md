@@ -1,7 +1,7 @@
 <div align="center">
     <div>
         <img src="https://pbs.twimg.com/profile_banners/1196281610250915841/1639614204/1500x500" alt="Profile header" width="80%" />
-        <a href="https://app.daily.dev/TreGalloway"><img src="https://github.com/tregalloway/tregalloway/blob/master/devcard.svg" width="20%" alt="Tre Galloway's Dev Card"/>
+        <a href="https://app.daily.dev/TreGalloway"><img src="https://github.com/TreGalloway/tregalloway/blob/main/devcard.svg" width="18%" alt="Tre Galloway's Dev Card"/>
         </a>
 <!-- ![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1637900179/1500x500)  -->
 <h1 align="left">Hi 👋, I'm Tre Galloway</h1>
