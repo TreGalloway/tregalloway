@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://pbs.twimg.com/profile_banners/1196281610250915841/1639614204/1500x500" alt="Profile header" width="80%" />
+        <img src="https://github.com/TreGalloway/tregalloway/blob/main/github%20banner.png" alt="Profile header" width="80%" />
         <a href="https://app.daily.dev/TreGalloway"><img src="https://github.com/TreGalloway/tregalloway/blob/main/devcard.svg" width="18%" alt="Tre Galloway's Dev Card"/>
         </a>
 <!-- ![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1637900179/1500x500)  -->
