@@ -12,8 +12,8 @@
 
 <h2 align="left">What I’m currently working on</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=Personal-Website&show_icons=true&theme=tokyonight)](https://github.com/TreGalloway/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=link-in-bio&theme=tokyonight)](https://github.com/TreGalloway/link-in-bio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=Personal-Website&show_icons=true&border_color=2d3a3a&icon_color=f35b6a&title_color=dab785&bg_color=2d3a3a&text_color=ffffff)](https://github.com/TreGalloway/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=link-in-bio&border_color=2d3a3a&title_color=dab785&icon_color=f35b6a&bg_color=2d3a3a&text_color=ffffff)](https://github.com/TreGalloway/link-in-bio)
 
 
 
@@ -32,8 +32,8 @@
 
 <h2 align="left">Stats,Languages and Tools:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&icon_color=f35b6a&border_color=2d3a3a&title_color=dab785&bg_color=2d3a3a&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&show_icons=true&border_color=2d3a3a&title_color=dab785&bg_color=2d3a3a&text_color=ffffff)
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
