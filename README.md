@@ -1,6 +1,6 @@
 <div align="left">
     <div>
-        <img src="https://github.com/TreGalloway/tregalloway/blob/main/social.png" alt="Profile header" width="100%" />
+        <img src="https://github.com/TreGalloway/tregalloway/blob/main/github%20cover.jpg" alt="Profile header" width="100%" />
         <a href="https://app.daily.dev/TreGalloway"><img src="https://github.com/TreGalloway/tregalloway/blob/main/devcard.svg" width="30%"align="right" alt="Tre Galloway's Dev Card" />
         </a>
         
