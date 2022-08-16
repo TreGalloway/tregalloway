@@ -19,13 +19,16 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<p align="left">
-<a href="https://www.youtube.com/channel/UCRQPGu1zovYhIdP86WCTKLw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tregalloway" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tregalloway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tregalloway" height="30" width="40" /></a
-<a href="https://twitter.com/bytregalloway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytregalloway" height="30" width="40" /></a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tregalloway/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/bytregalloway)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bytregalloway/)
+[![My Skills](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/channel/UCRQPGu1zovYhIdP86WCTKLw)
+
+
+
   or email me <b>Tre@tregalloway.com</b>
 
-</p>
+
 
 <h2 align="left">Stats,Languages and Tools:</h2>
 
@@ -33,4 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&layout=default&hide=css&show_icons=true&theme=ayu-mirage)
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,vercel,git,vscode)](https://skillicons.dev)
