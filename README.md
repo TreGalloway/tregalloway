@@ -12,7 +12,7 @@
 
 <h2 align="left">Favorite Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=tregalloway.com&show_icons=true&theme=vue-dark)](https://github.com/TreGalloway/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=tregalloway.com&show_icons=true&theme=vue-dark)](https://github.com/TreGalloway/tregalloway.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=meetthedevs&theme=vue-dark)](https://github.com/TreGalloway/link-in-bio)
 
 
