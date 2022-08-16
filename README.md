@@ -12,8 +12,8 @@
 
 <h2 align="left">Favorite Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=tregalloway.com&show_icons=true&theme=vue-dark)](https://github.com/TreGalloway/tregalloway.com)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=meetthedevs&theme=vue-dark)](https://github.com/TreGalloway/link-in-bio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=Tregalloway.com&show_icons=true&theme=ayu-mirage)](https://github.com/TreGalloway/tregalloway.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=MeetTheDevs&theme=ayu-mirage)](https://github.com/TreGalloway/meetthedevs)
 
 
 
@@ -29,8 +29,8 @@
 
 <h2 align="left">Stats,Languages and Tools:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&layout=compact&hide=css&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&layout=default&hide=css&show_icons=true&theme=ayu-mirage)
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git)](https://skillicons.dev)
