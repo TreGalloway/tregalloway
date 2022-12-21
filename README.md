@@ -1,23 +1,29 @@
-<div align="left">
-    <div>
-        <img src="https://github.com/TreGalloway/tregalloway/blob/main/github%20cover.jpg" alt="Profile header" width="100%" />
-        <a href="https://app.daily.dev/TreGalloway"><img src="https://github.com/TreGalloway/tregalloway/blob/main/devcard.svg" width="30%"align="right" alt="Tre Galloway's Dev Card" />
-        </a>
-        
-<!-- ![I am a Front-End Web Developer 🧑🏽‍💻](https://pbs.twimg.com/profile_banners/1196281610250915841/1637900179/1500x500)  -->
-<h1 align="left">Hi 👋, I'm Tre Galloway</h1>
-<h3 align="left">A Frontend Developer from New Orleans, Louisiana</h3>
-<p align="left">Started learning Python as a one off thing🤷🏽‍♂️, but along the way started to really get into coding and once I found out about front-end web development I was all in🧑🏽‍💻. Now I’ve learned several languages and frameworks. 
-</p>
+# 🧙🏾‍♂️ Tre Galloway
 
-<h2 align="left">Favorite Projects</h1>
+**`Overly curious peron with access to internet 🔮 (Developer/Creator)`**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=Tregalloway.com&show_icons=true&theme=ayu-mirage)](https://github.com/TreGalloway/tregalloway.com)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tregalloway&repo=MeetTheDevs&theme=ayu-mirage)](https://github.com/TreGalloway/meetthedevs)
+I'm an self-taught Frontend Developer and Content Creator learning, creating, sharing and teaching in the digital frontier.
 
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
+---
 
-<h2 align="left">Connect with me:</h2>
+### 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,vercel,git,vscode)](https://skillicons.dev)
+
+---
+
+### 📲 Connect with Me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tregalloway/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/bytregalloway)
@@ -28,12 +34,14 @@
 
   or email me <b>Tre@tregalloway.com</b>
 
+---
 
-
-<h2 align="left">Stats,Languages and Tools:</h2>
+### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&theme=ayu-mirage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&layout=default&hide=css&show_icons=true&theme=ayu-mirage)
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,vercel,git,vscode)](https://skillicons.dev)
+---
+<details>
+ <summary><h3>👨🏾‍💻 Tre's Coding Journey</h3></summary>
+🚴🏾‍♂️To be continued....
