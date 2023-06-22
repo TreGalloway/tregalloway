@@ -1,6 +1,6 @@
 # 🧙🏾‍♂️ Tre Galloway
 
-**`Overly curious peron with access to internet 🔮 (Developer/Creator)`**
+**`Overly curious peron with access to internet 🔮 (Developer/Writer)`**
 
 I'm an self-taught Frontend Developer and Content Creator learning, creating, sharing and teaching in the digital frontier.
 
