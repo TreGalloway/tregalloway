@@ -19,7 +19,7 @@ I'm an self-taught Frontend Developer and Content Creator learning, creating, sh
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,nodejs,prisma,vercel,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,nodejs,supabase,prisma,vercel,git,vscode)](https://skillicons.dev)
 
 ---
 
