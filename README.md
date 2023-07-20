@@ -39,7 +39,7 @@ I'm an self-taught Frontend Developer and Content Creator learning, creating, sh
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tregalloway&show_icons=true&theme=ayu-mirage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tregalloway&layout=default&hide=css&show_icons=true&theme=ayu-mirage)
+
 
 ---
 <details>
