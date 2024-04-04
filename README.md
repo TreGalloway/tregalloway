@@ -1,10 +1,9 @@
 <p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=43B660&random=false&width=550&lines=I'm+Tre+Galloway+%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Fullstack+Developer;+Specialize+in+Go+AWS+%26+Azure)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=1000&color=43B660&random=false&width=700&height=100&lines=I'm+Tre+Galloway+%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F;Fullstack+Developer;+Specialize+in+Go+AWS+%26+Azure)](https://git.io/typing-svg)
 </p>
 
-**`Overly curious person with access to internet 🔮 (Developer/Writer)`**
+**`Digital Architect🔮 (Developer/Creator)`**
 
 
 🌍  I'm based in New Orleans<br>🖥️  See my portfolio at [Tregalloway.com/Portfolio](http://tregalloway.com/profile)<br>✉️  You can contact me at [bytregalloway@gmail.com](mailto:bytregalloway@gmail.com)<br>🧠  I'm diving deep into Go, Docker, and cloud services
@@ -26,7 +25,8 @@
 </details>
 
 <details>
-  <summary> <h2> Latest YouTube Videos</h2> </summary>
+  <summary> <h2> 🖥️Latest YouTube Videos</h2> </summary>
+  
   <!-- BEGIN YOUTUBE-CARDS -->
 [![I Messed Up! - Avoid These Mistakes When You're Learning How to Code](https://ytcards.demolab.com/?id=B24Znaw62UQ&title=I+Messed+Up%21+-+Avoid+These+Mistakes+When+You%27re+Learning+How+to+Code&lang=en&timestamp=1664895607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Messed Up! - Avoid These Mistakes When You're Learning How to Code")](https://www.youtube.com/watch?v=B24Znaw62UQ)
 [![Time to Stop Your Phone Addiction](https://ytcards.demolab.com/?id=e7EqNsjt94U&title=Time+to+Stop+Your+Phone+Addiction&lang=en&timestamp=1651863619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Time to Stop Your Phone Addiction")](https://www.youtube.com/watch?v=e7EqNsjt94U)
