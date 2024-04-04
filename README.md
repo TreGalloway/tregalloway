@@ -28,6 +28,12 @@
 <details>
   <summary> <h2> Latest YouTube Videos</h2> </summary>
   <!-- BEGIN YOUTUBE-CARDS -->
+[![I Messed Up! - Avoid These Mistakes When You're Learning How to Code](https://ytcards.demolab.com/?id=B24Znaw62UQ&title=I+Messed+Up%21+-+Avoid+These+Mistakes+When+You%27re+Learning+How+to+Code&lang=en&timestamp=1664895607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Messed Up! - Avoid These Mistakes When You're Learning How to Code")](https://www.youtube.com/watch?v=B24Znaw62UQ)
+[![Time to Stop Your Phone Addiction](https://ytcards.demolab.com/?id=e7EqNsjt94U&title=Time+to+Stop+Your+Phone+Addiction&lang=en&timestamp=1651863619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Time to Stop Your Phone Addiction")](https://www.youtube.com/watch?v=e7EqNsjt94U)
+[![Why It's Great to be a Introvert](https://ytcards.demolab.com/?id=nMX6ZvT5MgE&title=Why+It%27s+Great+to+be+a+Introvert&lang=en&timestamp=1646856901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why It's Great to be a Introvert")](https://www.youtube.com/watch?v=nMX6ZvT5MgE)
+[![How to Deal with Change](https://ytcards.demolab.com/?id=fM-fFaCHma4&title=How+to+Deal+with+Change&lang=en&timestamp=1645199102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Deal with Change")](https://www.youtube.com/watch?v=fM-fFaCHma4)
+[![Why I Choose to Be a Front-End Web Developer](https://ytcards.demolab.com/?id=xaHqD5T-UgQ&title=Why+I+Choose+to+Be+a+Front-End+Web+Developer&lang=en&timestamp=1642276827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why I Choose to Be a Front-End Web Developer")](https://www.youtube.com/watch?v=xaHqD5T-UgQ)
+[![I Was Wrong - How To Set Goals](https://ytcards.demolab.com/?id=-rKwQqgHi00&title=I+Was+Wrong+-+How+To+Set+Goals&lang=en&timestamp=1641413701&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Was Wrong - How To Set Goals")](https://www.youtube.com/watch?v=-rKwQqgHi00)
 <!-- END YOUTUBE-CARDS -->
 </details>
 
