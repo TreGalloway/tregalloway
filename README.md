@@ -6,7 +6,7 @@
 **`Digital Architect🔮 (Developer/Creator)`**
 
 
-🌍  I'm based in New Orleans<br>🖥️  See my portfolio at [Tregalloway.com/Portfolio](http://tregalloway.com/profile)<br>✉️  You can contact me at [bytregalloway@gmail.com](mailto:bytregalloway@gmail.com)<br>🧠  I'm diving deep into Go, Docker, and cloud services
+🌍  I'm based in New Orleans<br>🖥️  See my portfolio at [Tregalloway.com/Portfolio](http://tregalloway.com/profile)<br>✉️  You can contact me at [tre@tregalloway.com](mailto:[tre@tregalloway.com)<br>🧠  I'm diving deep into Go, Docker, and cloud services
 
 
 <details open>
