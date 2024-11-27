@@ -12,8 +12,8 @@
 <details open>
   <summary> <h2>  📗Top Projects</h2></summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreGalloway&repo=wonder&show_owner=true&theme=gotham)](https://github.com/TreGalloway/wonder)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreGalloway&repo=CloudResumeChallenge&show_owner=true&theme=gotham)](https://github.com/TreGalloway/CloudResumeChallenge)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreGalloway&repo=planni&show_owner=true&theme=gotham)](https://github.com/TreGalloway/wonder)
+
   
 </details>
 
