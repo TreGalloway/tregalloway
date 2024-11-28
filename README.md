@@ -1,12 +1,12 @@
 <p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&size=55&duration=3000&pause=1500&color=1da889&random=false&width=850&height=85&lines=%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Tre+Galloway;Fullstack+Developer;Focus+on+Go+%2C+AWS+%26+Azure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=1DA889&width=700&height=100&lines=%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Tre+Galloway;Focused+on+Golang;Learning+PHP+and+Rust)](https://git.io/typing-svg)
 </p>
 
 **`Digital Architect🔮 (Developer/Creator)`**
 
 
-🌍  I'm based in New Orleans<br>🖥️  See my portfolio at [Tregalloway.com/projects](http://tregalloway.com/projects)<br>✉️  You can contact me at [tre@tregalloway.com](mailto:[tre@tregalloway.com)<br> 👨🏾‍💻  I'm specialize in Go & cloud services (have experience with frontend frameworks)
+🌍  I'm based in New Orleans<br>🖥️  See my work at [Tregalloway.com/products](http://tregalloway.com/products)<br>✉️  You can contact me at [tre@tregalloway.com](mailto:[tre@tregalloway.com)<br> 👨🏾‍💻  I'm specialize in Go & cloud services (have experience with frontend frameworks)
 
 
 <details open>
