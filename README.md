@@ -8,11 +8,9 @@ When I'm not diving into tech, you'll find me lost in a good fantasy book 📚�
 ### Things I'm Working On 🚧
 
 - [Enterprise Systems Administration Lab](https://github.com/TreGalloway/enterprise-systems-administration-lab)  
-     A hands-on lab environment to practice and master enterprise systems administration skills 🖥️🔧.  
-- [Planni](https://github.com/TreGalloway/planni)  
-     A terminal-based productivity tool designed to streamline navigation and task management 📅⌨️.  
+     A hands-on lab environment to practice and master enterprise systems administration skills 🖥️🔧.   
 - [Cabbin](https://github.com/TreGalloway/cabbin)  
-     Building a remote work setup that you can SSD into for seamless, portable productivity 🚀💻.
+     Building a remote work setup that you can SSH into for seamless, portable productivity 🚀💻.
 
 ---
 
