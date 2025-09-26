@@ -1,7 +1,8 @@
 # Tre Galloway 👋🏾
 
-Driven and curious aspiring tech professional, eager to secure my first role in tech while working towards a career in AI engineering.  
-When I'm not diving into tech, you'll find me lost in a good fantasy book 📚🧙🏾‍♂️.
+AI engineering enthusiast seeking my first tech role. Building projects, learning constantly, and dreaming of AGI.
+
+Off-hours: Fantasy books 📚🧙🏾‍♂️
 
 ---
 
