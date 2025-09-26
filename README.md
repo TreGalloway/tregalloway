@@ -7,10 +7,10 @@ When I'm not diving into tech, you'll find me lost in a good fantasy book 📚�
 
 ### Things I'm Building 🧰
 
-- [Azure Network Lab](https://github.com/TreGalloway/enterprise-systems-administration-lab)  
-     A hands-on lab environment to practice and master enterprise systems administration skills 🖥️🔧.   
-- [Azure NLP Copilot](https://github.com/TreGalloway/azure-copilot)  
-     Building a remote work setup that you can SSH into for seamless, portable productivity 🚀💻.
+- [Azure Network Lab](https://github.com/TreGalloway/enterprise-systems-administration-lab): A hands-on, automated project simulating a hybrid cloud environment by connecting a local VM to an Azure VNet via a site-to-site VPN Gateway. 🖥️🔧.
+
+- [Azure NLP Copilot](https://github.com/TreGalloway/azure-copilot): An intelligent Python-based CLI assistant translating natural language commands into Azure CLI operations, simplifying cloud resource management. 🚀💻.
+
 
 ---
 
