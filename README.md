@@ -1,17 +1,14 @@
 # Tre Galloway 👋🏾
 
-AI engineering enthusiast seeking my first tech role. Building projects, learning constantly, and dreaming of AGI.
+Proffessional Tinkerer🪛 seeking my first tech role. Building projects, learning constantly, and dreaming of actually pushing to production😂.
 
-Off-hours: Fantasy books 📚🧙🏾‍♂️
+Off-hours: Fantasy books 📚🧙🏾‍♂️, Anime⚔️, Video Games🎮, and 3D Printing🖨️
 
 ---
 
 ### Things I'm Building 🧰
 
-- [Azure Network Lab](https://github.com/TreGalloway/enterprise-systems-administration-lab): A hands-on, automated project simulating a hybrid cloud environment by connecting a local VM to an Azure VNet via a site-to-site VPN Gateway. 🖥️🔧.
-
-- [Azure NLP Copilot](https://github.com/TreGalloway/azure-copilot): An intelligent Python-based CLI assistant translating natural language commands into Azure CLI operations, simplifying cloud resource management. 🚀💻.
-
+- [Pier](https://github.com/TreGalloway/Pier): An intelligent Golang-based CLI assistant translating English into IaC that deploys and manage your own cloud. 🚀💻.
 
 ---
 
@@ -23,10 +20,9 @@ Off-hours: Fantasy books 📚🧙🏾‍♂️
 ---
 
 ### What I'm Exploring 🔍
--  **Python:** Returning to Python to unlock its full potential and explore all the possibilities it offers for automation, scripting, and beyond 🐍🚀.  
-- **Azure:** Exploring Azure use cases tailored for my journey in networking and AI engineering, aiming to build robust, cloud-native solutions ☁️🔐.
-- **AI:** Learning artificial intelligence to integrate into my future platform engineering work 🤖📈.  
-- **Kubernetes:** Starting to learn Kubernetes to manage containerized applications at scale ☸️🚢.
+-   **Python:** I'm returning to Python to unlock its full potential and explore its possibilities for automation, scripting, and more 🐍🚀.  
+-   **Golang:** I'm learning Golang to build tools for networking and DevOps ☁️🔐.  
+-   **AI:** I'm learning artificial intelligence to integrate it into my future platform engineering work 🤖📈.  
 ---
 
 ### Let's Connect 🤝
