@@ -3,9 +3,13 @@
 ### Network Engineer | IoT/OT Security | Building at the Edge of Networks and Embedded Systems
 
 📍 **New Orleans, LA** (Open to Remote | Targeting Baton Rouge & Houston)
+
 🔭 **Currently building:** [NetGuard](https://github.com/TreGalloway/netguard) — network monitoring & automated remediation in Go
+
 🌱 **Learning:** CCNA | Network Automation | IoT Protocols | OT/ICS Security
+
 💼 **Seeking:** Network Engineering, NOC, or Network Operations roles
+
 📫 **Reach me:** [tre@tregalloway.com](mailto:tre@tregalloway.com) | [LinkedIn](https://linkedin.com/in/tregalloway)
 
 ---
