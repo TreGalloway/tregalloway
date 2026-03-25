@@ -1,26 +1,26 @@
-# Tre Galloway 👋🏾
-
 # 👋 Hi, I'm Tre Galloway
 
-### Cloud Engineer | AWS Solutions Architect | Building AI-Powered Infrastructure
+### Network Engineer | IoT/OT Security | Building at the Edge of Networks and Embedded Systems
 
-📍 **New Orleans → Baton Rouge, LA** (Open to Remote)  
-🔭 **Currently building:** [Pier](https://github.com/TreGalloway/pier) (AI-powered IaC generator) & [Smart Environmental Monitor](https://github.com/TreGalloway/smart-environmental-monitor) (IoT + AWS + AI)  
-🌱 **Learning:** Kubernetes, MLOps, AI Infrastructure Engineering  
-💼 **Seeking:** Network Engineering, Cloud Engineering, DevOps, or Platform Engineering roles  
+📍 **New Orleans, LA** (Open to Remote | Targeting Baton Rouge & Houston)
+🔭 **Currently building:** [NetGuard](https://github.com/TreGalloway/netguard) — network monitoring & automated remediation in Go
+🌱 **Learning:** CCNA | Network Automation | IoT Protocols | OT/ICS Security
+💼 **Seeking:** Network Engineering, NOC, or Network Operations roles
 📫 **Reach me:** [tre@tregalloway.com](mailto:tre@tregalloway.com) | [LinkedIn](https://linkedin.com/in/tregalloway)
 
 ---
 
 ## 🚀 About Me
 
-I am a **Cloud Engineer** specializing in AWS infrastructure and AI integration. I bridge the gap between complex cloud architecture and developer productivity. I don't just "tinker"—I build production-ready systems that solve real-world problems, from IoT monitoring platforms to AI-powered DevOps tools.
+I'm a network engineer working toward the intersection of **networking, IoT, and OT/ICS security** — the infrastructure layer that keeps industrial systems, smart devices, and critical environments running.
+
+I don't just study for certifications — I build things that reflect real operational problems. My path runs through networking fundamentals → network automation → IoT protocols → embedded systems and OT security depth.
 
 **What I bring to the table:**
-- ☁️ **AWS Certified:** Solutions Architect (Associate) & Cloud Practitioner.
-- 🤖 **AI Integration:** Hands-on experience deploying Claude and GPT models into cloud workflows.
-- 🏗️ **Infrastructure as Code:** Terraform and Go for automation.
-- 🔧 **Systems Thinking:** A background in networking (CompTIA Network+) paired with full-stack execution.
+- 🌐 **Networking Foundation:** CompTIA Network+ certified, actively pursuing CCNA
+- 🔧 **Hands-On Building:** Go for network tooling, Python for IoT systems, Packet Tracer for simulation
+- 🏭 **Target Domain:** OT/ICS security — the convergence point of networking, embedded firmware, and industrial systems
+- 🤖 **Systems Thinking:** I learn by building things that mimic real NOC and field engineer workflows
 
 > "You can't steer a parked car. Start moving, then adjust." — *Struthless*
 
@@ -28,31 +28,31 @@ I am a **Cloud Engineer** specializing in AWS infrastructure and AI integration.
 
 ## 🔥 Featured Projects
 
-### 🚢 [Pier](https://github.com/TreGalloway/pier) - AI-Powered Infrastructure Generator
-*CLI tool that translates natural language into production-ready Terraform.*
-- **Tech:** Go, Claude API, Terraform, AWS SDK
-- **Impact:** Reduces cloud resource bootstrapping time from hours to seconds by automating boilerplate HCL generation.
-
-### 🌡️ [Smart Environmental Monitor](https://github.com/TreGalloway/smart-environmental-monitor)
-*IoT system with AI-driven anomaly detection for industrial environments.*
-- **Tech:** Raspberry Pi, Python, AWS IoT Core, Lambda, DynamoDB, Bedrock
-- **Impact:** Provides real-time environmental insights with "intelligent" alerting, reducing false positives by 40% through AI filtering.
+### 🛡️ [NetGuard](https://github.com/TreGalloway/netguard) — Network Monitor & Automated Remediation Tool
+*A Go-based network monitoring tool built to simulate real NOC workflows — detecting anomalies and triggering automated responses.*
+- **Tech:** Go, Packet Tracer, ICMP/SNMP, CLI tooling
+- **Why it exists:** Most network monitoring demos are passive dashboards. NetGuard is designed around the question NOC engineers actually face: *"Something broke — now what?"* Automated remediation is the answer.
+- **Status:** Active development — built boot.dev style for fast, structured learning alongside building.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Networking & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Programming & AI
+### Programming & Tooling
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### IoT & Embedded (Building Toward)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -67,28 +67,27 @@ I am a **Cloud Engineer** specializing in AWS infrastructure and AI integration.
 
 ## 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate** (Expected Feb 2026)
-- **AWS Certified Cloud Practitioner** (2024)
 - **CompTIA Network+** (2024)
+- **CCNA** *(In Progress)*
 
 ---
 
 ## 🎮 Beyond the Terminal
 
-When I'm not configuring VPCs or prompting LLMs, I’m likely:
-- **3D Printing:** Designing and printing custom enclosures for IoT projects.
-- **Fantasy & Lore:** Deep in a fantasy novel or catching up on the latest Shonen anime.
-- **Gaming:** Going through my single player game backlog.
-- **Tinkering:** I’m a professional tinkerer at heart; I love taking things apart to see how the "magic" works.
+When I'm not deep in packet captures or writing Go tooling, I'm likely:
+- **3D Printing:** Designing enclosures for IoT and electronics projects
+- **Arduino Tinkering:** I'm a professional tinkerer — I love understanding how things work at the hardware level
+- **Fantasy & Lore:** Deep in a fantasy novel or catching up on the latest Shonen anime
+- **Gaming:** Working through my single player game backlog
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm looking to join a team building the future of cloud-native applications. If you're looking for an engineer who bridges the gap between **Cloud, AI, and Operations**, let's talk.
+I'm looking to join a team where I can grow as a network engineer while building toward OT/ICS security depth. If you're working on infrastructure that matters — industrial systems, smart environments, or critical networks — let's talk.
 
-📧 **Email:** [tre@tregalloway.com](mailto:tre@tregalloway.com)  
-💼 **LinkedIn:** [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)  
+📧 **Email:** [tre@tregalloway.com](mailto:tre@tregalloway.com)
+💼 **LinkedIn:** [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)
 🌐 **Portfolio:** [tregalloway.com](https://tregalloway.com)
 
 <div align="center">
