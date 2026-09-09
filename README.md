@@ -1,91 +1,80 @@
-# 👋 Hi, I'm Tre Galloway
+👋 Hi, I'm Tre Galloway
 
-### Network Engineer | IoT/OT Security | Building at the Edge of Networks and Embedded Systems
+Systems & Embedded Developer | Firmware/Hardware Integration | Embedded AI
 
-📍 **New Orleans, LA** (Open to Remote | Targeting Baton Rouge & Houston)
+📍 New Orleans, LA (Open to Remote)
 
-🔭 **Currently building:** [NetGuard](https://github.com/TreGalloway/netguard) — network monitoring & automated remediation in Go
-
-🌱 **Learning:** CCNA | Network Automation | IoT Protocols | OT/ICS Security
-
-💼 **Seeking:** Network Engineering, NOC, or Network Operations roles
-
-📫 **Reach me:** [tre@tregalloway.com](mailto:tre@tregalloway.com) | [LinkedIn](https://linkedin.com/in/tregalloway)
+🔬 Focus: Embedded Systems, Firmware, Rust, & Edge AI
+🌱 Deepening: Rust Memory Models | Embedded Systems Architecture | Microcontroller Interfaces (SPI/I2C/UART)
+📫 Reach me: tre@tregalloway.com | [LinkedIn](https://linkedin.com/in/tregalloway) | [Portfolio](https://tregalloway.com)
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a network engineer working toward the intersection of **networking, IoT, and OT/ICS security** — the infrastructure layer that keeps industrial systems, smart devices, and critical environments running.
+I'm a systems software developer bridging low-level hardware integration, firmware, and embedded intelligence. My engineering focus centers on writing high-performance, memory-safe code in Rust at the hardware boundary and designing resilient systems for edge deployment.
 
-I don't just study for certifications — I build things that reflect real operational problems. My path runs through networking fundamentals → network automation → IoT protocols → embedded systems and OT security depth.
+I learn by building functional tools from the bare metal up. My focus spans hardware/software interfaces, embedded device firmware, and low-level network and server automation.
 
-**What I bring to the table:**
-- 🌐 **Networking Foundation:** CompTIA Network+ certified, actively pursuing CCNA
-- 🔧 **Hands-On Building:** Go for network tooling, Python for IoT systems, Packet Tracer for simulation
-- 🏭 **Target Domain:** OT/ICS security — the convergence point of networking, embedded firmware, and industrial systems
-- 🤖 **Systems Thinking:** I learn by building things that mimic real NOC and field engineer workflows
+What I bring to the table:
+🦀 Systems & Bare-Metal Programming: Primary focus in Rust for systems, CLI, and embedded hardware workflows
+🔌 Firmware & Hardware Integration: Microcontroller development, hardware communication protocols, and edge compute
+🤖 Embedded AI & Edge Computing: Exploring lightweight machine learning models on low-power hardware
+📐 Engineering Mindset: Pursuing Electrical & Computer Engineering with a focus on hardware/software co-design
 
-> "You can't steer a parked car. Start moving, then adjust." — *Struthless*
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ [NetGuard](https://github.com/TreGalloway/netguard) — Network Monitor & Automated Remediation Tool
-*A Go-based network monitoring tool built to simulate real NOC workflows — detecting anomalies and triggering automated responses.*
-- **Tech:** Go, Packet Tracer, ICMP/SNMP, CLI tooling
-- **Why it exists:** Most network monitoring demos are passive dashboards. NetGuard is designed around the question NOC engineers actually face: *"Something broke — now what?"* Automated remediation is the answer.
-- **Status:** Active development — built boot.dev style for fast, structured learning alongside building.
+"You can't steer a parked car. Start moving, then adjust." — Struthless
 
 ---
 
-## 🛠️ Tech Stack
+🔥 Featured Projects
 
-### Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Programming & Tooling
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### IoT & Embedded (Building Toward)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![AWS IoT](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+🦀 Fleet — High-Performance Server Manager in Rust
+A low-level server management tool built in Rust for monitoring system health, managing processes, and orchestrating edge server infrastructure.
+Tech: Rust, Linux Systems Programming, Systems Architecture
+Why it exists: Built to provide a lightweight, blazingly fast, and memory-safe management layer for servers and edge nodes without heavy runtime overhead.
 
 ---
 
-## 🎓 Certifications
+🛠️ Tech Stack
 
-- **CompTIA Network+** (2024)
-- **CCNA** *(In Progress)*
+Programming & Embedded
+Rust
+C / C++
+Python
+Bash
+
+Hardware & Embedded Protocols
+Raspberry Pi
+Arduino / Microcontrollers
+SPI / I2C / UART / MQTT
+Firmware Integration
+
+Infrastructure & Tooling
+Linux (CachyOS)
+Docker
+Git
+AWS / Edge Compute
 
 ---
 
-## 🎮 Beyond the Terminal
+🎮 Beyond the Terminal
 
-When I'm not deep in packet captures or writing Go tooling, I'm likely:
-- **3D Printing:** Designing enclosures for IoT and electronics projects
-- **Arduino Tinkering:** I'm a professional tinkerer — I love understanding how things work at the hardware level
-- **Fantasy & Lore:** Deep in a fantasy novel or catching up on the latest Shonen anime
-- **Gaming:** Working through my single player game backlog
+When I'm not writing Rust or debugging low-level hardware interfaces, I'm likely:
+3D Printing: Designing custom enclosures and structural parts for electronics projects
+Hardware Tinkering: Exploring circuit layouts, sensor integration, and microcontrollers
+Fantasy & Lore: Deep in a fantasy novel or catching up on the latest Shonen anime
+Gaming: Working through my single-player backlog
 
 ---
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
-I'm looking to join a team where I can grow as a network engineer while building toward OT/ICS security depth. If you're working on infrastructure that matters — industrial systems, smart environments, or critical networks — let's talk.
+I'm interested in collaborating on embedded systems, firmware integration, and edge AI projects. If you're building hardware-adjacent software, robotics, or systems tools, let's connect.
 
-📧 **Email:** [tre@tregalloway.com](mailto:tre@tregalloway.com)
-💼 **LinkedIn:** [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)
-🌐 **Portfolio:** [tregalloway.com](https://tregalloway.com)
+📧 Email: tre@tregalloway.com
+💼 LinkedIn: [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)
+🌐 Portfolio: [tregalloway.com](https://tregalloway.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TreGalloway&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=TreGalloway&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
