@@ -1,79 +1,70 @@
-👋 Hi, I'm Tre Galloway
+# 👋 Hi, I'm Tre' Galloway
 
-Systems & Embedded Developer | Firmware/Hardware Integration | Embedded AI
+**Self-Taught Software Engineer ➡️ Electrical Engineering Student**  
+📍 New Orleans, LA | 🌐 [tregalloway.com](https://tregalloway.com)
 
-📍 New Orleans, LA (Open to Remote)
-
-🔬 Focus: Embedded Systems, Firmware, Rust, & Edge AI
-🌱 Deepening: Rust Memory Models | Embedded Systems Architecture | Microcontroller Interfaces (SPI/I2C/UART)
-📫 Reach me: tre@tregalloway.com | [LinkedIn](https://linkedin.com/in/tregalloway) | [Portfolio](https://tregalloway.com)
-
----
-
-🚀 About Me
-
-I'm a systems software developer bridging low-level hardware integration, firmware, and embedded intelligence. My engineering focus centers on writing high-performance, memory-safe code in Rust at the hardware boundary and designing resilient systems for edge deployment.
-
-I learn by building functional tools from the bare metal up. My focus spans hardware/software interfaces, embedded device firmware, and low-level network and server automation.
-
-What I bring to the table:
-🦀 Systems & Bare-Metal Programming: Primary focus in Rust for systems, CLI, and embedded hardware workflows
-🔌 Firmware & Hardware Integration: Microcontroller development, hardware communication protocols, and edge compute
-🤖 Embedded AI & Edge Computing: Exploring lightweight machine learning models on low-power hardware
-📐 Engineering Mindset: Pursuing Electrical & Computer Engineering with a focus on hardware/software co-design
-
-"You can't steer a parked car. Start moving, then adjust." — Struthless
+🔬 **Focus:** Embedded Systems, Rust, Firmware, & Edge AI  
+🌱 **Deepening:** Rust Memory Models | Hardware/Software Co-design | EE Fundamentals  
+📫 **Reach me:** tre@tregalloway.com | [LinkedIn](https://linkedin.com/in/tregalloway)
 
 ---
 
-🔥 Featured Projects
+### 🚀 About My Journey
 
-🦀 Fleet — High-Performance Server Manager in Rust
-A low-level server management tool built in Rust for monitoring system health, managing processes, and orchestrating edge server infrastructure.
-Tech: Rust, Linux Systems Programming, Systems Architecture
-Why it exists: Built to provide a lightweight, blazingly fast, and memory-safe management layer for servers and edge nodes without heavy runtime overhead.
+My path into tech isn't traditional. I started out entirely self-taught, learning how to build software and diving into low-level systems, Rust, and CLI tools on my own time. Now, I'm taking that practical, self-driven foundation into a formal **Electrical Engineering** degree to deeply understand the bare metal and hardware side. 
 
----
+I learn by building functional tools from the ground up. My ultimate goal is to build a career at the intersection of **Embedded Systems and AI**, bridging the gap between hardware interfaces and edge intelligence.
 
-🛠️ Tech Stack
+**What I bring to the table:**
+*   🦀 **Systems Programming:** A strong foundation in Rust for memory-safe systems, CLI tools, and backend workflows.
+*   🔌 **Hardware & Firmware:** Transitioning into formal EE to master microcontroller development, hardware communication protocols (SPI/I2C/UART), and edge compute.
+*   🤖 **Embedded AI:** Exploring how to deploy lightweight machine learning models on low-power hardware.
+*   📐 **Engineering Mindset:** Approaching problems with a focus on high-performance hardware/software co-design.
 
-Programming & Embedded
-Rust
-C / C++
-Python
-Bash
-
-Hardware & Embedded Protocols
-Raspberry Pi
-Arduino / Microcontrollers
-SPI / I2C / UART / MQTT
-Firmware Integration
-
-Infrastructure & Tooling
-Linux (CachyOS)
-Docker
-Git
-AWS / Edge Compute
+> *"You can't steer a parked car. Start moving, then adjust." — Struthless*
 
 ---
 
-🎮 Beyond the Terminal
+### 🔥 Current Explorations & Ideas
 
-When I'm not writing Rust or debugging low-level hardware interfaces, I'm likely:
-3D Printing: Designing custom enclosures and structural parts for electronics projects
-Hardware Tinkering: Exploring circuit layouts, sensor integration, and microcontrollers
-Fantasy & Lore: Deep in a fantasy novel or catching up on the latest Shonen anime
-Gaming: Working through my single-player backlog
+**🦀 Fleet — High-Performance Server Manager (WIP)**
+An ongoing architectural concept and work-in-progress for a low-level server management tool built in Rust. 
+*   **Tech:** Rust, Linux Systems Programming, Tokio, SSH
+*   **Why it exists:** Designed to explore building a blazingly fast, memory-safe management layer for servers and edge nodes without heavy runtime overhead.
 
 ---
 
-🤝 Let's Connect
+### 🛠️ Tech Stack & Tools
 
-I'm interested in collaborating on embedded systems, firmware integration, and edge AI projects. If you're building hardware-adjacent software, robotics, or systems tools, let's connect.
+**Languages & Systems**
+`Rust` `Go` `C/C++` `Python` `Bash`
 
-📧 Email: tre@tregalloway.com
-💼 LinkedIn: [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)
-🌐 Portfolio: [tregalloway.com](https://tregalloway.com)
+**Hardware & Embedded (Learning & Building)**
+`Raspberry Pi` `Microcontrollers` `SPI/I2C/UART` `Firmware Integration` 
+
+**Infrastructure & Environment**
+`Linux (CachyOS)` `Docker` `Git` `AWS`
+
+---
+
+### 🎮 Beyond the Terminal
+
+When I'm not writing Rust, debugging hardware, or studying for my upcoming EE courses, I'm likely:
+*   **3D Printing:** Firing up the Bambu Lab A1 to design custom enclosures and structural parts for electronics.
+*   **Hardware Tinkering:** Exploring circuit layouts, sensor integration, and custom PC building.
+*   **Fantasy & Lore:** Deep in a LitRPG novel (like *The Primal Hunter*), comic books, or catching up on Shonen anime.
+*   **Gaming:** Working through my single-player backlog and running PC benchmarks.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in collaborating on embedded systems, firmware integration, and edge AI projects. Whether you are a fellow student, a builder, or an engineering recruiter—let's connect.
+
+📧 **Email:** tre@tregalloway.com  
+💼 **LinkedIn:** [linkedin.com/in/tregalloway](https://linkedin.com/in/tregalloway)  
+
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TreGalloway&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
