@@ -52,8 +52,8 @@ An ongoing architectural concept and work-in-progress for a low-level server man
 When I'm not writing Rust, debugging hardware, or studying for my upcoming EE courses, I'm likely:
 *   **3D Printing:** Firing up the Bambu Lab A1 to design custom enclosures and structural parts for electronics.
 *   **Hardware Tinkering:** Exploring circuit layouts, sensor integration, and custom PC building.
-*   **Fantasy & Lore:** Deep in a LitRPG novel (like *The Primal Hunter*), comic books, or catching up on Shonen anime.
-*   **Gaming:** Working through my single-player backlog and running PC benchmarks.
+*   **Fantasy & Lore:** Deep in a LitRPG novel (like *The Primal Hunter*), comic books, or catching up on anime.
+*   **Gaming:** Working through my single-player backlog.
 
 ---
 
